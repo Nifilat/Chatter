@@ -4,13 +4,9 @@ A responsive landing page for Chatter, a blogging platform for readers and write
 
 ## Preview
 
-Open `index.html` directly in a browser, or serve the folder locally:
+Open the folder in VS Code, right-click `index.html` and choose **Open with Live Server** (or click **Go Live** in the status bar). The page reloads automatically when you save changes.
 
-```bash
-python3 -m http.server 8077
-```
-
-Then visit http://localhost:8077.
+You can also open `index.html` directly in a browser.
 
 ## Project structure
 
